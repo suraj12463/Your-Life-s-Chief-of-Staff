@@ -1,0 +1,8 @@
+{
+  "name": "AI Concierge: Your Life's Chief of Staff",
+  "description": "An AI-powered personal operations platform that automates administrative burdens, handling reminders, scheduling, recurring tasks with optional due dates, bill payments, and goal tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
